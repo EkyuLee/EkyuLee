@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EkyuLee
+- 👀 I’m working in backend developer.
+- 🌱 I’m currently learning the algorithm. 
+- 💞️ I’m looking to collaborate on aws
+- 📫 How to reach me dev.eklee@gmail.com
