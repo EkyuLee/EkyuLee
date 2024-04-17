@@ -1,4 +1,4 @@
-- Hi, I’m @EoungkyuLee
+- Hi, I’m EoungkyuLee
 - I’m working in devops. 
 - I'm interested in every software development systems.
 - I'm working in Incheon Airport of Aircus developer.
